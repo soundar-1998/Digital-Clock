@@ -1,0 +1,30 @@
+#container{
+    min-height: 500px;
+    position: relative;
+
+
+}#clock{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1SH-oVJ_n-MqaKLqxSQUCZswJ7X-GIXu61Q&s');
+    text-align: center;
+    margin-left: 300px;
+    font-size: 20px;
+    background-color: #5897a9;
+    color: #f8eeee;
+    min-width: 150px;
+    padding: 5px;
+    border-radius:5px;
+    position: absolute;
+    top: 60%;
+    left:43%;
+    transform: translate(-30% ,-30%);
+}
+body{
+    background-image: url(' https://images.wallpaperscraft.com/image/single/interior_design_style_design_68248_1920x1080.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:80vh;
+    position:relative;
+    width:100%;
+
+
+}
